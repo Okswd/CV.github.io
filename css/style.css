@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #ECFBFC;
@@ -8,7 +13,8 @@ h5 {
     font-size: 14px;
     line-height: 17px;
     color: #034246;
-    margin-bottom: 12px;
+    margin-bottom: 6px;
+    margin-top: 7px;
 }
 
 .main-container {
@@ -39,7 +45,7 @@ h5 {
     font-size: 45px;
     line-height: 55px;
     color: #034246;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
 }
 
 .about-me-description {
@@ -56,11 +62,11 @@ h5 {
     font-size: 22px;
     line-height: 27px;
     color: #034246;
-    margin-bottom: 10px;
+    margin-bottom: 25px;
 }
 
 .my-work-experience-company-block {
-    margin-bottom: 15px;
+    margin-bottom: 30px;
 }
 
 .my-work-experience-position {
@@ -82,6 +88,14 @@ h5 {
     line-height: 15px;
     color: #A8A8A8;
     margin-bottom: 10px;
+}
+
+.my-work-experience-period-education {
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 20px;
 }
 
 .my-work-experience-divider {
